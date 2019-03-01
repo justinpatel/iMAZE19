@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gcet.perfect.imaze19.TechActivity">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/techListView"
+        android:background="@color/colorPrimary"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10.0sp"
+        android:padding="15dp"
+        >
+
+    </ListView>
+
+
+
+</LinearLayout>

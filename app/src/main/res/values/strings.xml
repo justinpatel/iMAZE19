@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">iMAZE19</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="robowar_detail">Design a manually controlled ROBOT wired or wireless within a specified dimension as mentioned in specifications below. The robot that will demolish the other robot in minimum time or minimum parts damaged of the robot will be declared winner.</string>
+    <string name="robowar_spec">Robot Specifications:
+ Maximum weight of the robot must be less than 55kg. Above this weight criteria, the robots will not be permitted to fight.
+ The maximum dimension of the robot must not exceed from 750mm x 750mm x 1000mm (l x b x h).
+ The length of the wire (for wired bots) should be long enough so that it can cover the arena and wire should remain slack during the war.
+ For any kind of accident college will not take any responsibility.
+ Use of Chemical spray and fire will not be allowed.Arena Specifications:
+ All the rounds will be on rectangular based arena.
+ The dimension for rectangular arena will be 12 feet * 12 feet (l x b)</string>
+
+    <string name="robowar_rules">General Rules:
+ Each team has to make their robots under the specifications given above.
+ Each team can have maximum 6 members. Students from different institutes can form a team.
+ No test practice will be allowed on the arena.
+ The robot should not damage the arena else it will lead to penalty, severely damage by the robot will lead to disqualification of the robot.
+ Each member of the team must have identity card of his/her respective institute.
+ Qualification to the next level is subjective and totally based on the judges.
+ Certificates of participation will be given to all the teams.
+ Unethical behaviour could lead to disqualification. Faculty coordinators have all the rights to take final decision for any matter during the event.
+ The necessary rules for playing the match will be explained on the day of event.
+ Maximum DC source voltage allowed is 24V.</string>
+
+    <string name="robowar_contact">Co-ordinator Information:
+1. Hrushikesh Trada: hrushi2709@gmail.com, Ph. No. 7016024749
+2. Vasu Patel: vasu26patel@gmail.com, Ph. No. 7405390190
+3. Sagar Tejani: tejanisagard1997@gmail.com, Ph. No. 7573017203</string>
+
+    <string name="title_activity_tech_dept_event">TechDeptEventActivity</string>
+</resources>
